@@ -1,6 +1,0 @@
-@NonProductionAPI_HostAddress = http://localhost:5164
-
-GET {{NonProductionAPI_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
